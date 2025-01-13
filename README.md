@@ -19,6 +19,11 @@ I'm a passionate developer who loves exploring new technologies. I enjoy working
 
 📫 **Contact me**: [marcin@ostrykot.pl](mailto:marcin@ostrykot.pl)
 
+📹 [YouTube](https://www.youtube.com/@ostrykot)
+
+
+
+
 
 <!--
 **OstryKot/OstryKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
