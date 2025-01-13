@@ -7,10 +7,9 @@
 🌱 Always learning, experimenting, and exploring simplicity in tech.  
 
 ### About Me
-I'm a passionate developer who loves exploring new technologies. I enjoy working with Python and JavaScript, and I love building things that matter. I'm also fascinated by AI and Web3. In my spare time, I contribute to open source projects and learn new tools.
+I'm a passionate developer who loves exploring new technologies. I enjoy working with JavaScript, Python and PHP and I love building things that matter. I'm also fascinated by AI and Web3.
 
 🌱 Currently exploring **Machine Learning** and **Blockchain Development**.
-
 
 📫 **Contact me**: [marcin@ostrykot.pl](mailto:marcin@ostrykot.pl)
 
