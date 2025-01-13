@@ -2,10 +2,10 @@
 
 - 💻 **Programmer** | Exploring **Web3**, **AI**, and **CLI**  
 - 🐧 **Linux Enthusiast** | Passionate about **Debian** and minimalism with **i3 WM**  
-- ⚡ Focused on building **functional** and **efficient** solutions
 - ⚙️ **DevOps Skills**:  
 I have hands-on experience with configuring and managing **Debian** servers, including setting up **network services** such as **Apache**, **Nginx**, **SSH**, **Firewall** configurations, and more.  
 I'm comfortable working with **systemd**, **Docker**, and automating tasks using **bash** scripts.
+- ⚡ Focused on building **functional** and **efficient** solutions
 
 🌱 Always learning, experimenting, and exploring simplicity in tech.  
 
