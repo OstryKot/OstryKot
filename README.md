@@ -9,7 +9,6 @@ I'm comfortable working with **systemd**, **Docker**, and automating tasks using
 
 🌱 Always learning, experimenting, and exploring simplicity in tech.  
 
-### About Me
 I'm a passionate developer who loves exploring new technologies. I enjoy working with JavaScript, Python and PHP and I love building things that matter. I'm also fascinated by AI and Web3.
 
 🛠️ **Technologies I love**:  
