@@ -19,7 +19,9 @@ I'm a passionate developer who loves exploring new technologies. I enjoy working
 
 📫 **Contact me**: [marcin@ostrykot.pl](mailto:marcin@ostrykot.pl)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ostrykot) [![Web3Devs](https://img.shields.io/badge/Web3Devs-Visit-blue?style=for-the-badge)](https://web3devs.pl)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ostrykot) 
+[![Web3Devs](https://img.shields.io/badge/Web3Devs-Click_Here-orange?style=flat-square)](https://web3devs.pl)
+
 
 
 
