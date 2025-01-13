@@ -1,4 +1,13 @@
-## Hi there 👋
+### 👋 Hi there!  
+
+- 💻 **Programmer** | Exploring **Web3**, **AI**, and **CLI**  
+- 🐧 **Linux Enthusiast** | Passionate about **Debian** and minimalism with **i3 WM**  
+- ⚡ Focused on building **functional** and **efficient** solutions  
+
+🌱 Always learning, experimenting, and exploring simplicity in tech.  
+
+📫 **Contact me**: [marcin@ostrykot.pl](mailto:marcin@ostrykot.pl)
+
 
 <!--
 **OstryKot/OstryKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
