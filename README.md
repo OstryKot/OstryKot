@@ -1,5 +1,7 @@
 ### 👋 Hi there!  
 
+### About Me
+
 - 💻 **Programmer** | Exploring **Web3**, **AI**, and **CLI**  
 - 🐧 **Linux Enthusiast** | Passionate about **Debian** and minimalism with **i3 WM**  
 - ⚙️ **DevOps Skills**:  
