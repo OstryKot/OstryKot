@@ -23,6 +23,7 @@ I'm a passionate developer who loves exploring new technologies. I enjoy working
 
 [![Web3Devs](https://img.shields.io/badge/Web3Devs-Explore-green?style=for-the-badge&logo=ethereum&logoColor=white)](https://web3devs.pl)
 
+[![Status](https://img.shields.io/website?down_message=Offline&up_message=Online&url=https%3A%2F%2Fweb3devs.pl)](https://web3devs.pl)
 
 
 
