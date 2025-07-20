@@ -24,7 +24,7 @@ I'm a passionate developer who loves exploring new technologies. I enjoy working
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ostrykot)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostrykot&hide=stars,prs,issues,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostrykot&hide=stars,prs,issues,contribs&theme=dark)](https://github.com/ostrykot/github-readme-stats)
 
 
 
