@@ -23,8 +23,7 @@ I'm a passionate developer who loves exploring new technologies. I enjoy working
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ostrykot)
 
-
-
+"We code in the shadows because there are no windows in the cave."
 
 
 
